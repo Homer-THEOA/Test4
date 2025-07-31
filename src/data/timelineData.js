@@ -1,392 +1,357 @@
-export const timelineData = {
-  "2011": [
-    {
-      title: "Launch of Foundation",
-      image: "/images/placeholder.jpg",
-      shortDesc: "The foundation was launched to serve the community.",
-      longDesc: "The foundation was launched to serve the community. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "First Medical Camp",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Conducted first-ever community medical check-up.",
-      longDesc: "Conducted first-ever community medical check-up. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "School Kit Distribution",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Distributed educational kits to children.",
-      longDesc: "Distributed educational kits to children. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Community Kitchen Started",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Started daily meal services.",
-      longDesc: "Started daily meal services. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2012": [
-    {
-      title: "Women Empowerment Drive",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Initiated programs to empower women.",
-      longDesc: "Initiated programs to empower women. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Health Awareness Program",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Hosted sessions on basic health education.",
-      longDesc: "Hosted sessions on basic health education. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Clean Water Initiative",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Installed clean water sources.",
-      longDesc: "Installed clean water sources. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Skill Development Workshops",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Launched upskilling programs.",
-      longDesc: "Launched upskilling programs. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2013": [
-    {
-      title: "Mobile Health Van Launched",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Deployed mobile health units.",
-      longDesc: "Deployed mobile health units. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Hygiene Kits for Children",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Distributed hygiene kits.",
-      longDesc: "Distributed hygiene kits. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Rural Solar Project",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Provided solar lights to villages.",
-      longDesc: "Provided solar lights to villages. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Eye Check-Up Camps",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Organized free eye check-ups.",
-      longDesc: "Organized free eye check-ups. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2014": [
-    {
-      title: "Elderly Support Scheme",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Support program for senior citizens.",
-      longDesc: "Support program for senior citizens. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Mobile Library Van",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Brought books to rural areas.",
-      longDesc: "Brought books to rural areas. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Digital Literacy Drive",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Taught computer basics.",
-      longDesc: "Taught computer basics. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Monthly Food Distribution",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Monthly rations to needy families.",
-      longDesc: "Monthly rations to needy families. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2015": [
-    {
-      title: "Youth Employment Fair",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Linked youth with job opportunities.",
-      longDesc: "Linked youth with job opportunities. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Construction of Toilets",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Built sanitary toilets.",
-      longDesc: "Built sanitary toilets. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Health Card Launch",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Introduced health ID cards.",
-      longDesc: "Introduced health ID cards. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Expansion to 3 Villages",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Expanded into new locations.",
-      longDesc: "Expanded into new locations. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2016": [
-    {
-      title: "Emergency Flood Relief",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Distributed aid during floods.",
-      longDesc: "Distributed aid during floods. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Blood Donation Drives",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Regular blood donation events.",
-      longDesc: "Regular blood donation events. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Menstrual Health Campaign",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Awareness on menstrual hygiene.",
-      longDesc: "Awareness on menstrual hygiene. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Children’s Art Competition",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Creative competitions in schools.",
-      longDesc: "Creative competitions in schools. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2017": [
-    {
-      title: "Green School Project",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Started eco-friendly school initiatives.",
-      longDesc: "Started eco-friendly school initiatives. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Vocational Training Center",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Opened new training facility.",
-      longDesc: "Opened new training facility. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Disability Awareness Week",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Hosted disability support events.",
-      longDesc: "Hosted disability support events. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Community Radio Launched",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Launched local radio programs.",
-      longDesc: "Launched local radio programs. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2018": [
-    {
-      title: "Nutrition Kits for Mothers",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Nutrition support for pregnant women.",
-      longDesc: "Nutrition support for pregnant women. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Farmer’s Support Program",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Training and financial aid.",
-      longDesc: "Training and financial aid. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "School Renovation",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Refurbished school buildings.",
-      longDesc: "Refurbished school buildings. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Annual Health Survey",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Gathered health data for planning.",
-      longDesc: "Gathered health data for planning. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2019": [
-    {
-      title: "Skill Scholarships Distributed",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Funded skill development training.",
-      longDesc: "Funded skill development training. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Waste Management Drive",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Clean-up and recycling programs.",
-      longDesc: "Clean-up and recycling programs. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Tree Plantation Campaign",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Planted thousands of saplings.",
-      longDesc: "Planted thousands of saplings. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Start of Senior Citizen Helpline",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Support helpline launched.",
-      longDesc: "Support helpline launched. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2020": [
-    {
-      title: "COVID-19 Relief & Ration Kits",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Emergency COVID support.",
-      longDesc: "Emergency COVID support. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Online Education Setup",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Virtual classroom infrastructure.",
-      longDesc: "Virtual classroom infrastructure. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "PPE Distribution",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Distributed masks, gloves, PPE.",
-      longDesc: "Distributed masks, gloves, PPE. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Mental Health Tele-counseling",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Launched mental health hotline.",
-      longDesc: "Launched mental health hotline. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2021": [
-    {
-      title: "Vaccination Awareness Rallies",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Educated public on vaccination.",
-      longDesc: "Educated public on vaccination. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Restart Education Fund",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Reenrolled dropouts into schools.",
-      longDesc: "Reenrolled dropouts into schools. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Orphan Support Program",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Care for orphaned children.",
-      longDesc: "Care for orphaned children. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Online Vocational Training",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Remote job-skills classes.",
-      longDesc: "Remote job-skills classes. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2022": [
-    {
-      title: "Hybrid Health Check Camps",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Blended online/offline check-ups.",
-      longDesc: "Blended online/offline check-ups. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Distribution of Laptops",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Donated laptops to students.",
-      longDesc: "Donated laptops to students. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Upliftment of Single Mothers",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Support and finance training.",
-      longDesc: "Support and finance training. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Free Eye Surgeries",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Surgical camps for poor patients.",
-      longDesc: "Surgical camps for poor patients. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2023": [
-    {
-      title: "Microfinance Launch",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Small loans to entrepreneurs.",
-      longDesc: "Small loans to entrepreneurs. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Nutrition Gardens",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Home garden promotion.",
-      longDesc: "Home garden promotion. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "School Bus Service",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Transport service to remote villages.",
-      longDesc: "Transport service to remote villages. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Drug Awareness Workshop",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Workshops on addiction prevention.",
-      longDesc: "Workshops on addiction prevention. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2024": [
-    {
-      title: "Smart Classrooms Setup",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Introduced digital classrooms.",
-      longDesc: "Introduced digital classrooms. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Women’s Entrepreneurship Cell",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Support for women-led startups.",
-      longDesc: "Support for women-led startups. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Free Dialysis Unit",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Free treatment for kidney patients.",
-      longDesc: "Free treatment for kidney patients. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Environmental Awareness Film Fest",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Films on sustainability.",
-      longDesc: "Films on sustainability. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-  "2025": [
-    {
-      title: "AI-Powered Health Monitoring Launch",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Launched smart health monitoring.",
-      longDesc: "Launched smart health monitoring. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Expansion to 50+ Districts",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Scaled operations across the state.",
-      longDesc: "Scaled operations across the state. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Global NGO Collaboration",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Partnered with international NGOs.",
-      longDesc: "Partnered with international NGOs. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-    {
-      title: "Annual CareTech Summit",
-      image: "/images/placeholder.jpg",
-      shortDesc: "Hosted global summit on health-tech.",
-      longDesc: "Hosted global summit on health-tech. This initiative was a significant step in our mission to support underprivileged communities with scalable and impactful programs."
-    },
-  ],
-};
+export const timelineData = [
+  {
+    "year": 2011,
+    "title": "Highlights of 2011",
+    "shortdescription": "Add a summary of 2011 here",
+    "events": [
+      {
+        "title": "Social Awareness Event",
+        "shortDescription": "Social Awareness through Local Public Events and Programs during Festivals",
+        "longDescription": "Social Awareness through Local Public Events and Programs during Festivals"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "title": "Highlights of 2012",
+    "description": "Add a summary of 2012 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "Socio-cultural Youth Program",
+        "shortDescription": "Socio-cultural program for youth motivation",
+        "longDescription": "Socio-cultural program for youth motivation"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "title": "Highlights of 2013",
+    "description": "Add a summary of 2013 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "Youth Motivation Program",
+        "shortDescription": "Socio-cultural program for youth motivation",
+        "longDescription": "Socio-cultural program for youth motivation"
+      },
+      {
+        "title": "Summer & Winter Camps",
+        "shortDescription": "Summer camps and winter camps",
+        "longDescription": "Summer camps and winter camps"
+      },
+      {
+        "title": "Radio City Campaign",
+        "shortDescription": "Radio City 91.1 FM",
+        "longDescription": "Radio City 91.1 FM"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "title": "Highlights of 2014",
+    "description": "Add a summary of 2014 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "Summer & Winter Camps",
+        "shortDescription": "Summer camps and winter camps",
+        "longDescription": "Summer camps and winter camps"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "title": "Highlights of 2015",
+    "description": "Add a summary of 2015 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "P3 Pre Primary Program",
+        "shortDescription": "P3 Pre Primary",
+        "longDescription": "P3 Pre Primary"
+      },
+      {
+        "title": "Summer & Winter Camps",
+        "shortDescription": "Summer camps and winter camps",
+        "longDescription": "Summer camps and winter camps"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "title": "Highlights of 2016",
+    "description": "Add a summary of 2016 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "P3 Pre Primary Program",
+        "shortDescription": "P3 Pre Primary",
+        "longDescription": "P3 Pre Primary"
+      },
+      {
+        "title": "Youth Motivation Programs",
+        "shortDescription": "Youth motivation programs",
+        "longDescription": "Youth motivation programs"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "title": "Highlights of 2017",
+    "description": "Add a summary of 2017 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "FANACT Event",
+        "shortDescription": "FANACT",
+        "longDescription": "FANACT"
+      },
+      {
+        "title": "DANSEN Event",
+        "shortDescription": "DANSEN",
+        "longDescription": "DANSEN"
+      },
+      {
+        "title": "P3 Pre Primary Program",
+        "shortDescription": "P3 Pre Primary",
+        "longDescription": "P3 Pre Primary"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "title": "Highlights of 2018",
+    "description": "Add a summary of 2018 here",
+    "events": [
+      {
+        "title": "National Flag Pride Rally",
+        "shortDescription": "National Flag Pride Rally",
+        "longDescription": "National Flag Pride Rally"
+      },
+      {
+        "title": "Legal Awareness & AABAA",
+        "shortDescription": "FANACT, Legal Awareness Seminar, AABAA",
+        "longDescription": "FANACT, Legal Awareness Seminar, AABAA"
+      },
+      {
+        "title": "Digi Womania Seminar",
+        "shortDescription": "P3 Pre Primary, Digi Womania Seminar",
+        "longDescription": "P3 Pre Primary, Digi Womania Seminar"
+      },
+      {
+        "title": "Notebook Distribution",
+        "shortDescription": "Notebooks distribution, Radio City 91.1 FM",
+        "longDescription": "Notebooks distribution, Radio City 91.1 FM"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "title": "Highlights of 2019",
+    "description": "Add a summary of 2019 here",
+    "events": [
+      {
+        "title": "National Flag Pride Campaign",
+        "shortDescription": "National Flag Pride Campaign",
+        "longDescription": "National Flag Pride Campaign"
+      },
+      {
+        "title": "Legal Awareness Seminars",
+        "shortDescription": "Legal Awareness Seminars",
+        "longDescription": "Legal Awareness Seminars"
+      },
+      {
+        "title": "Digi Womania & P3 Pre Primary",
+        "shortDescription": "DIGI WOMANIA Seminar, P3 Pre Primary",
+        "longDescription": "DIGI WOMANIA Seminar, P3 Pre Primary"
+      },
+      {
+        "title": "Kerala Flood Donation & Medical Camp",
+        "shortDescription": "Kerala flood donation, medical camp",
+        "longDescription": "Kerala flood donation, medical camp"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "title": "Highlights of 2020",
+    "description": "Add a summary of 2020 here",
+    "events": [
+      {
+        "title": "National Flag Pride Campaign",
+        "shortDescription": "National Flag Pride Campaign",
+        "longDescription": "National Flag Pride Campaign"
+      },
+      {
+        "title": "COVID Relief Distribution",
+        "shortDescription": "Food, Water, Mask & Sanitizer Distribution",
+        "longDescription": "Food, Water, Mask & Sanitizer Distribution"
+      },
+      {
+        "title": "Medical Camp",
+        "shortDescription": "Medical camp",
+        "longDescription": "Medical camp"
+      },
+      {
+        "title": "Sanitary Pad Distribution",
+        "shortDescription": "Sanitary pad distribution",
+        "longDescription": "Sanitary pad distribution"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "title": "Highlights of 2021",
+    "description": "Add a summary of 2021 here",
+    "events": [
+      {
+        "title": "National Flag Pride Campaign",
+        "shortDescription": "National Flag Pride Campaign",
+        "longDescription": "National Flag Pride Campaign"
+      },
+      {
+        "title": "Food & Water Distribution",
+        "shortDescription": "Food & Water Distribution, Masks, Sanitizers",
+        "longDescription": "Food & Water Distribution, Masks, Sanitizers"
+      },
+      {
+        "title": "Project ASHA Medical Aid",
+        "shortDescription": "Medical Aid under Project ASHA",
+        "longDescription": "Medical Aid under Project ASHA"
+      },
+      {
+        "title": "Juhu Beach Cleaning",
+        "shortDescription": "Juhu beach cleaning",
+        "longDescription": "Juhu beach cleaning"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "title": "Highlights of 2022",
+    "description": "Add a summary of 2022 here",
+    "events": [
+      {
+        "title": "National Flag Pride Campaign",
+        "shortDescription": "National Flag Pride Campaign",
+        "longDescription": "National Flag Pride Campaign"
+      },
+      {
+        "title": "Food & Water Distribution",
+        "shortDescription": "Food & Water Distribution",
+        "longDescription": "Food & Water Distribution"
+      },
+      {
+        "title": "Masks & Stationary Kits",
+        "shortDescription": "Masks, Sanitizers, Stationary Kit Distribution",
+        "longDescription": "Masks, Sanitizers, Stationary Kit Distribution"
+      },
+      {
+        "title": "Sanitary Pad Distribution",
+        "shortDescription": "Sanitary pad distribution",
+        "longDescription": "Sanitary pad distribution"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "title": "Highlights of 2023",
+    "description": "Add a summary of 2023 here",
+    "events": [
+      {
+        "title": "Project ASHA",
+        "shortDescription": "Project ASHA",
+        "longDescription": "Project ASHA"
+      },
+      {
+        "title": "Feed The Need",
+        "shortDescription": "Feed The Need",
+        "longDescription": "Feed The Need"
+      },
+      {
+        "title": "Stationary Kit Distribution",
+        "shortDescription": "Stationary kit distribution",
+        "longDescription": "Stationary kit distribution"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "title": "Highlights of 2024",
+    "description": "Add a summary of 2024 here",
+    "events": [
+      {
+        "title": "Project ASHA",
+        "shortDescription": "Project ASHA",
+        "longDescription": "Project ASHA"
+      },
+      {
+        "title": "Feed The Need",
+        "shortDescription": "Feed The Need",
+        "longDescription": "Feed The Need"
+      },
+      {
+        "title": "Stationary Kit Distribution",
+        "shortDescription": "Stationary kit distribution",
+        "longDescription": "Stationary kit distribution"
+      },
+      {
+        "title": "Food Distribution",
+        "shortDescription": "Food distribution",
+        "longDescription": "Food distribution"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "Highlights of 2025",
+    "description": "Add a summary of 2025 here",
+    "events": [
+      {
+        "title": "Project ASHA",
+        "shortDescription": "Project ASHA",
+        "longDescription": "Project ASHA"
+      },
+      {
+        "title": "Feed The Need",
+        "shortDescription": "Feed The Need",
+        "longDescription": "Feed The Need"
+      },
+      {
+        "title": "Stationary Kit Distribution",
+        "shortDescription": "Stationary kit distribution",
+        "longDescription": "Stationary kit distribution"
+      },
+      {
+        "title": "Food Distribution",
+        "shortDescription": "Food distribution",
+        "longDescription": "Food distribution"
+      }
+    ]
+  }
+];
